@@ -1,4 +1,4 @@
 # Doctor
 一个简易的在线书城
-mysql：5.x
-jdk：8
+mysql：8.x
+jdk：17
